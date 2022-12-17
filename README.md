@@ -7,3 +7,4 @@
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
 
+[![Somespecial's GitHub stats](https://github-readme-stats.vercel.app/api?username=somespecialone&count_private=true&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=f8d847)](https://github.com/somespecialone#)
