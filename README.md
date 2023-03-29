@@ -1,21 +1,17 @@
-
 <div id="header">
-    <img src="src.svg" alt="Hi there! 👋" height="65">
+    <img src="src.svg" alt="Hi there! 👋" height="45" width="200">
 </div>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-[![Profile hits](https://vc.somespecial.one/somespecialone-profile/badge?label=%F0%9F%8C%9F+profile+hits&color=pink)](https://github.com/somespecialone/views-counter)
+[![Profile hits](https://vc.somespecial.one/somespecialone-profile/badge?label=%F0%9F%8C%9F+profile+hits&color=aquamarine)](https://github.com/somespecialone/views-counter)
 
-Enthusiast and creative fullstack developer who specializes in backend, frontend, automation, parsing, and little bit in trade robots development.
-Interested in various areas of computer science, including frontend & backend development, software engineering, some DevOps. Main areas of focus now are: software engineering, backend & frontend development. Love to solve non-trivial tasks, Python, JS/TS, Vue. Dream to work with Rust, blockchain.
+Enthusiast and creative fullstack developer who specializes in backend, frontend, automation, and little bit in trade robots development.
 
-### Current main instruments (descending)
-* Python
-* JavaScript/TypeScript
-* Vue
-* Docker
-* Relational & document-oriented databases
-* Node.js
+Love backend-frontend communications, APIs, solving non-trivial tasks.
+
+Dream to work with Rust, blockchain/crypto, healthcare/medical technologies.
+
+> ⚕️ Have higher medical education.
 
 ### 🌟 Get in touch 🌟
 
