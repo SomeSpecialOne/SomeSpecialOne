@@ -1,5 +1,5 @@
 <div id="header">
-    <img src="src.svg" alt="Hi there! 👋" height="45" width="200">
+    <img src="src.svg" alt="Welcome to my profile" height="95" width="400">
 </div>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
