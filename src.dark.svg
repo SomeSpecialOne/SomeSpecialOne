@@ -1,7 +1,7 @@
-<svg fill="none" viewBox="0 0 400 95" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 420 95" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <h1>Welcome to my <span>profile</span></h1>
+            <h1>Common profile <span>header</span></h1>
             <style>
                 div {
                     display: flex;
@@ -12,13 +12,14 @@
                     align-items: center;
                     justify-content: center;
 
+                    --body-color: #fff;
                     --glow-color: #0fa;
                 }
 
                 h1 {
                     position: absolute;
 
-                    color: #fff;
+                    color: var(--body-color);
                     font-size: 42px;
                     font-family: 'Dead Stock Demo';
 
@@ -26,7 +27,7 @@
                 }
 
                 span {
-                    animation: flicker 2.5s infinite alternate;
+                    animation: flicker 2.5s 10s infinite alternate;
                 }
 
                 /* https://css-tricks.com/how-to-create-neon-text-with-css/ */
@@ -34,8 +35,8 @@
                     100% {
                         /* Larger blur radius */
                         text-shadow:
-                            0 0 4px #fff,
-                            0 0 5px #fff,
+                            0 0 4px var(--body-color),
+                            0 0 5px var(--body-color),
                             0 0 8px var(--glow-color),
                             0 0 17px var(--glow-color),
                             0 0 20px var(--glow-color),
@@ -46,8 +47,8 @@
                     0% {
                         /* A slightly smaller blur radius */
                         text-shadow:
-                            0 0 4px #fff,
-                            0 0 4px #fff,
+                            0 0 4px var(--body-color),
+                            0 0 4px var(--body-color),
                             0 0 7px var(--glow-color),
                             0 0 16px var(--glow-color),
                             0 0 19px var(--glow-color),
@@ -66,9 +67,9 @@
                     57%,
                     100% {
                         text-shadow:
-                            0 0 1px #fff,
-                            0 0 2px #fff,
-                            0 0 3px #fff,
+                            0 0 1px var(--body-color),
+                            0 0 2px var(--body-color),
+                            0 0 3px var(--body-color),
                             0 0 6px var(--glow-color),
                             0 0 15px var(--glow-color),
                             0 0 16px var(--glow-color),
