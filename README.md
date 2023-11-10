@@ -1,7 +1,7 @@
 <div id="header">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="src.dark.svg" height="95" width="400">
-        <img src="src.light.svg" alt="Welcome, raveler!" height="95" width="400">
+        <source media="(prefers-color-scheme: dark)" srcset="src.dark.svg" height="95" width="420">
+        <img src="src.light.svg" alt="Just common header" height="95" width="420">
     </picture>
 </div>
 
@@ -10,12 +10,12 @@
 
 Generic profile body.
 
-> *Generic smart quote*
+> *Smart quote placeholder*
 
-### 🌟 Get in touch 🌟
+### Get in touch
 
 <div id="footer">
-    <a href="https://somespecial.one"><img src="globe.svg" alt="website" height="35"></a>
+    <a href="https://somespecial.one"><img src="www.svg" alt="website" height="35"></a>
     &nbsp;
     <a href="https://t.me/somespecialone"><img src="telegram.svg" alt="telegram" height="35"></a>
     &nbsp;
